@@ -8,5 +8,5 @@
 -->
 - 🎓ECE junior at BITS Pilani, Hyderabad Campus
 - 📫 Reach me out at:
-<a href="https://www.linkedin.com/in/yushi95/](https://www.linkedin.com/in/santruptibehera/"><img align="left” src="https://raw.githubusercontent.com/lazybug19/lazybug19/main/imgs/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a><a href="https://www.instagram.com/_santruptiiiiii__/"><img align="right" src="https://raw.githubusercontent.com/lazybug19/lazybug19/main/imgs/instagram.svg" alt="icon | Instagram" width="21px"/></a>
+<a href="https://www.linkedin.com/in/yushi95/](https://www.linkedin.com/in/santruptibehera/"><img src="https://raw.githubusercontent.com/lazybug19/lazybug19/main/imgs/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a><a href="https://www.instagram.com/_santruptiiiiii__/"><img src="https://raw.githubusercontent.com/lazybug19/lazybug19/main/imgs/instagram.svg" alt="icon | Instagram" width="21px"/></a>
 - 😄 Pronouns: this/that
