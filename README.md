@@ -7,5 +7,6 @@
 **lazybug19/lazybug19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🎓ECE junior at BITS Pilani, Hyderabad Campus
-- 📫 Reach me out at: <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by Freepik - Flaticon</a> <a href="https://www.flaticon.com/free-icons/instagram-logo" title="instagram logo icons">Instagram logo icons created by Laisa Islam Ani - Flaticon</a>
+- 📫 Reach me out at:
+<a href="https://www.linkedin.com/in/yushi95/](https://www.linkedin.com/in/santruptibehera/"><img align="left” src="https://raw.githubusercontent.com/lazybug19/lazybug19/main/imgs/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a><a href="https://www.instagram.com/_santruptiiiiii__/"><img align="right" src="https://raw.githubusercontent.com/lazybug19/lazybug19/main/imgs/instagram.svg" alt="icon | Instagram" width="21px"/></a>
 - 😄 Pronouns: this/that
