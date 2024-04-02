@@ -1,4 +1,4 @@
-<p align="center"><img height="300", src="/img/gt.gif"></p>
+![](gt.gif)
 
 # hi, Santrupti here :)
 
