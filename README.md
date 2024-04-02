@@ -1,4 +1,4 @@
-<p align="center"><img height="300", width="500", src="https://github.com/lazybug19/lazybug19/assets/105040967/7534b66d-1293-45fd-be90-ddddbbc533f9"></p>
+<p align="center"><img height="500", src="https://github.com/lazybug19/lazybug19/assets/105040967/7534b66d-1293-45fd-be90-ddddbbc533f9"></p>
 
 # hi, Santrupti here :)
 
