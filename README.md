@@ -1,4 +1,4 @@
-
+![](https://github.com/lazybug19/lazybug19/blob/main/gt.gif)
 
 # hi, Santrupti here :)
 
