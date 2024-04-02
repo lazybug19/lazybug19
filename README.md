@@ -1,4 +1,4 @@
-![](gt.gif)
+
 
 # hi, Santrupti here :)
 
