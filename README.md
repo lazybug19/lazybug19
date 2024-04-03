@@ -5,6 +5,7 @@
 -->
 ## About me
 🎓 ECE junior at BITS Pilani, Hyderabad Campus <br>
+<br>
 ⭐ An avid tech enthusiast exploring web dev & ml <br>
 🎭 A trained dancer and a writer too
 
