@@ -13,8 +13,7 @@
 🐞 Do check: <a href="https://lazybug19.github.io/"> SanFolio </a>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazybug19&theme=radical" alt="Languages Used" height="200">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=lazybug19&" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazybug19&layout=compact&theme=radical" alt="Languages Used" height="200">
 </p>
 
 
