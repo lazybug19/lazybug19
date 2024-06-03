@@ -14,8 +14,6 @@
 
 ## Skills and tools
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,html,tailwindcss,react,nodejs,postman,python)](https://skillicons.dev)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazybug19&layout=compact&theme=radical" alt="Languages Used" height="200">
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazybug19&layout=compact&theme=radical" alt="Languages Used" height="200">
 
 
