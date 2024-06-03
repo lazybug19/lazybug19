@@ -11,7 +11,7 @@
 ## Get in touch
 📫 Find me here: <a href="https://www.linkedin.com/in/santruptibehera/"><img src="https://raw.githubusercontent.com/lazybug19/lazybug19/main/imgs/linkedin.png" alt="icon | LinkedIn" width="21px"/></a>&nbsp;<a href="https://www.instagram.com/_santruptiiiiii__/"><img src="https://raw.githubusercontent.com/lazybug19/lazybug19/main/imgs/instagram.png" alt="icon | Instagram" width="21px"/></a><br>
 🐞 Do check: <a href="https://lazybug19.github.io/"> SanFolio </a>
-
+[![My Skills](https://skillicons.dev/icons?i=c,++,java,js,html,tailwindcss,react,node,postman,python)](https://skillicons.dev)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazybug19&layout=compact&theme=radical" alt="Languages Used" height="200">
 </p>
