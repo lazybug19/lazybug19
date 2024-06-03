@@ -4,7 +4,7 @@
 **lazybug19/lazybug19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## About me
- 🎓 ECE junior at BITS Pilani, Hyderabad Campus <br>
+ 🎓 ECE senior at BITS Pilani, Hyderabad Campus <br>
  ⭐ An avid tech enthusiast exploring web dev & ml  <br>
  🎭 A trained dancer and a writer too 
 
