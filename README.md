@@ -14,7 +14,7 @@
 
 ## Skills and tools
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,nextjs,html,tailwindcss,react,nodejs,postman,python)](https://skillicons.dev)
-<br><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazybug19&layout=compact&theme=radical" alt="Languages Used" height="195" width="150">
+<br><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazybug19&layout=compact&theme=radical" alt="Languages Used" height="200">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lazybug19&show=prs_merged_percentage&hide=stars&show_icons=true&theme=radical)
 
 
