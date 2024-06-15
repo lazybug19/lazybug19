@@ -13,9 +13,14 @@
 🐞 Do check: <a href="https://lazybug19.github.io/"> SanFolio </a>
 
 ## Skills and tools
+<div class="center">
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,nextjs,html,tailwindcss,react,nodejs,postman,python)](https://skillicons.dev)
-<br><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazybug19&layout=compact&theme=radical" alt="Languages Used" align="center" height="200">
+<br><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazybug19&layout=compact&theme=radical" alt="Languages Used" height="200">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lazybug19&show=prs_merged_percentage&hide=stars&show_icons=true&theme=radical)
+</div>
 
-
-
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
